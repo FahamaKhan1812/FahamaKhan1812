@@ -4,8 +4,8 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/fahama-khan-89b7a4234-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/fahama-khan-89b7a4234-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fahama-khan-89b7a4234/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahama-khan-89b7a4234/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
