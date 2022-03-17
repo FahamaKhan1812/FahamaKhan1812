@@ -2,9 +2,6 @@
 
 ## I'm a Student and Developer
 ### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fahama-khan-89b7a4234/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahama-khan-89b7a4234/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
