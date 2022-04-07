@@ -3,7 +3,7 @@
 ## I'm a Student and Developer
 
 ### Connect with me:
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahama-khan/)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/fahama-khan/)
 &nbsp;&nbsp;
 <!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammadfahama/) -->
 
