@@ -2,11 +2,11 @@
 
 ## I'm a Student and Developer
 
-### Connect with me:
+<!-- ### Connect with me:
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/fahama-khan/)
 &nbsp;&nbsp;
-<!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammadfahama/) -->
-
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammadfahama/)
+ -->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
