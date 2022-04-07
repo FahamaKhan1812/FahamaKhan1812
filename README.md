@@ -2,10 +2,10 @@
 
 ## I'm a Student and Developer
 
-<!-- ### Connect with me:
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahama-khan-89b7a4234/)
+### Connect with me:
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fahama-khan/)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammadfahama/) -->
+<!-- [![website](./img/instagram-dark.svg)](https://www.instagram.com/muhammadfahama/) -->
 
 ### Languages and Tools:
 
