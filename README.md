@@ -1,6 +1,6 @@
-# Hi there, My name is Fahama Khan 👋
+#Fahama Khan 👋
 
-## I'm a Student and Developer
+##Developer
 
 <!-- ### Connect with me:
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/fahama-khan/)
