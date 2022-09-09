@@ -1,6 +1,6 @@
-#Fahama Khan 👋
+# Fahama Khan 👋
 
-##Developer
+## I'm a Developer
 
 <!-- ### Connect with me:
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/fahama-khan/)
