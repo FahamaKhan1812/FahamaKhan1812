@@ -1,4 +1,4 @@
-# Fahama Khan 👋
+# Fahama Khan
 
 ## I'm a Developer
 
