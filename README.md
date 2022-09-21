@@ -40,11 +40,11 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=60% /></a>
+<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=60% /></a>
 
 <a href="https://github.com/FahamaKhan1812">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" width=40% /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" width=40% /></a>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahamaKhan1812&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width=50% /></a>
+<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahamaKhan1812&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width=50% /></a>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://activity-graph.herokuapp.com/graph?username=FahamaKhan1812&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/FahamaKhan1812"><img src="https://activity-graph.herokuapp.com/graph?username=FahamaKhan1812&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
