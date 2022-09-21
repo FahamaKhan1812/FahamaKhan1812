@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm Front-End Web Developer
 ---------------------------
+<img width="40%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" align="right" />
 
 Currently I'm doing my BS degree in Computer Science from Usman Institute of Technology UIT.
 
@@ -10,8 +11,6 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
 * ✉️  You can contact me at [fahamakhanofficial@gmail.com](mailto:fahamakhanofficial@gmail.com)
 * 🚀  I'm currently working on [Syalani Web App](http://https://4cwireless.com/saylani/)
 
-<a href="https://www.github.com/FahamaKhan1812" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/FahamaKhan1812?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
 ### Skills
 
@@ -41,10 +40,11 @@ src="https://img.shields.io/github/followers/FahamaKhan1812?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats" /></a>
+<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=60% /></a>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahamaKhan1812&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/FahamaKhan1812">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" width=40% /></a>
+
+<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahamaKhan1812&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width=40% /></a>
 
 <a href="http://www.github.com/FahamaKhan1812"><img src="https://activity-graph.herokuapp.com/graph?username=FahamaKhan1812&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/FahamaKhan1812" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
