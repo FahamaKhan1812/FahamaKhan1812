@@ -8,7 +8,7 @@ Front-End Web Developer
 Currently I'm doing my BS degree in Computer Science from Usman Institute of Technology UIT.
 
 * 🌍  I'm based in Karachi, Pakistan
-* ✉️  You can contact me at [fahamakhanofficial@gmail.com](mailto:fahamakhanofficial@gmail.com)
+* ✉️  You can contact me at [fahamakhanofficial@outlook.com](mailto:fahamakhanofficial@outlook.com)
 * 🚀  I'm currently working on [Syalani Web App](http://https://4cwireless.com/saylani/)
 
 
