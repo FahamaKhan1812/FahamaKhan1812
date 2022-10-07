@@ -9,7 +9,7 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fahamakhanofficial@outlook.com](mailto:fahamakhanofficial@outlook.com)
-* 🚀  I'm currently working on [Syalani Web App](http://https://4cwireless.com/saylani/)
+* 🚀  I'm currently working on [Syalani Web App](https://4cwireless.com/saylani/#/login)
 
 
 ### Skills
