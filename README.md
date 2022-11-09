@@ -12,9 +12,7 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
 ### Languages and Tools:
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ts,js,py,jquery,html,css,bootstrap,angular,dotnet,nodejs,docker,powershell,git,github,mongodb,mysql,redis,sqlite,firebase,visualstudio,vscode&perline=8" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=cs,ts,js,py,jquery,html,css,bootstrap,angular,dotnet,nodejs,docker,powershell,git,github,mongodb,mysql,redis,sqlite,firebase,visualstudio,vscode&perline=8"/>
 </p>
 
 ### Connect me on:
