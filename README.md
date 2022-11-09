@@ -18,12 +18,13 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
 ### Connect me on:
 
 <p align="left">
-  <a href="https://www.instagram.com/muhammadfahama" target="_blank" rel="noreferrer">
-     <img src="https://skillicons.dev/icons?i=instagram"/>&thinsp;
+    <a href="https://www.linkedin.com/in/fahamakhan" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=linkedin"/>&thinsp;
   </a>
-               <a href="https://www.linkedin.com/in/fahamakhan" target="_blank" rel="noreferrer">
-   <img src="https://skillicons.dev/icons?i=linkedin"/>
+    <a href="https://www.instagram.com/muhammadfahama" target="_blank" rel="noreferrer">
+     <img src="https://skillicons.dev/icons?i=instagram"/>
   </a>
+    
 </p>
 
 ### Badges
