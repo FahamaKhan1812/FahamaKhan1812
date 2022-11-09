@@ -37,7 +37,7 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=60% /></a>
+<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=60% /></a>
 
 <a href="https://github.com/FahamaKhan1812">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" width=40% /></a>
