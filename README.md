@@ -1,17 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=094EFF&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Fahama+Khan;I'm+Frontend+Web+Developer+)](https://git.io/typing-svg)
-<div>
 
 <img width="30%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" align="right" />
 
-
-    
-Currently I'm doing my BS degree in Computer Science from Usman Institute of Technology UIT.
-
-* 🌍  I'm based in Karachi, Pakistan
-* ✉️  You can contact me at [fahamakhanofficial@outlook.com](mailto:fahamakhanofficial@outlook.com)
-* 🚀  I'm currently working on [Syalani Web App](https://4cwireless.com/saylani/#/login)
-    
+<div style="background-color: #f8f8f8; padding: 20px; border-radius: 5px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
+  <h2 style="color: #333; font-size: 24px; font-weight: bold; margin-bottom: 10px;">Frontend Web Developer</h2>
+  <p style="color: #666; font-size: 16px; margin-bottom: 0;">With 2 years of experience in creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Angular, React, and more.</p>
 </div>
+
 
 
 #### Languages:
@@ -47,9 +42,8 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell&perline=7"/>
 </p>
 
----
 
-### Connect me on:
+#### Connect me on:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/fahamakhan" target="_blank" rel="noreferrer">
@@ -64,7 +58,7 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
 ---
 
 
-<b>GitHub Stats</b>
+#### GitHub Stats:
 
 
 <a href="https://github.com/FahamaKhan1812">
