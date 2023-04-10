@@ -12,14 +12,14 @@
 #### Languages:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=cs,ts,js,py,jquery,html,css&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=cs,ts,js,py,jquery,html,css,sass&perline=7"/>
 </p>
 
 
 #### Frameworks, platforms, and libraries:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=bootstrap,angular,dotnet,nodejs,docker&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,angular,dotnet,nodejs,docker,express,reactivex&perline=7"/>
 </p>
 
 
@@ -39,7 +39,7 @@
 #### Tools:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,postman&perline=7"/>
 </p>
 
 
