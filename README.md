@@ -1,19 +1,53 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=094EFF&multiline=true&width=435&height=60&lines=Hi%2C+My+name+is+Fahama+Khan;I'm+Frontend+Web+Developer+)](https://git.io/typing-svg)
+<div>
 
-<img width="40%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" align="right" />
+<img width="30%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" align="right" />
 
+
+    
 Currently I'm doing my BS degree in Computer Science from Usman Institute of Technology UIT.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [fahamakhanofficial@outlook.com](mailto:fahamakhanofficial@outlook.com)
 * 🚀  I'm currently working on [Syalani Web App](https://4cwireless.com/saylani/#/login)
+    
+</div>
 
 
-### Languages and Tools:
+#### Languages:
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=cs,ts,js,py,jquery,html,css,bootstrap,angular,dotnet,nodejs,docker,powershell,git,github,mongodb,mysql,redis,sqlite,firebase,visualstudio,vscode&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=cs,ts,js,py,jquery,html,css&perline=7"/>
 </p>
+
+
+#### Frameworks, platforms, and libraries:
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=bootstrap,angular,dotnet,nodejs,docker&perline=7"/>
+</p>
+
+
+#### Databases:
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,sqlite,firebase&perline=7"/>
+</p>
+
+
+#### Version Control:
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github&perline=7"/>
+</p>
+
+#### Tools:
+
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell&perline=7"/>
+</p>
+
+---
 
 ### Connect me on:
 
@@ -27,13 +61,16 @@ Currently I'm doing my BS degree in Computer Science from Usman Institute of Tec
     
 </p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=false&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=60% /></a>
+<b>GitHub Stats</b>
+
 
 <a href="https://github.com/FahamaKhan1812">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" width=40% /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" width=30% /></a>
 
-<a href="http://www.github.com/FahamaKhan1812"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahamaKhan1812&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"  width=50% /></a>
+<br/>
+
+<a href="http://www.github.com/FahamaKhan1812">
+    <img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=false&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=40% /></a>
