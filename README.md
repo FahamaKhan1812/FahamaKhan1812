@@ -60,11 +60,17 @@
 
 #### GitHub Stats:
 
-
-<a href="https://github.com/FahamaKhan1812">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" width=30% /></a>
-
-<br/>
-
-<a href="http://www.github.com/FahamaKhan1812">
-    <img src="https://github-readme-stats.vercel.app/api?username=FahamaKhan1812&show_icons=true&hide=&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide_border=true&show_icons=true" alt="FahamaKhan1812's GitHub stats"  width=40% /></a>
+<p align="center">
+  <a href="https://github.com/FahamaKhan1812">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahamaKhan1812&theme=transparent" />
+  </a>
+  <a href="https://github.com/FahamaKhan1812">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahamaKhan1812&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/FahamaKhan1812">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FahamaKhan1812&theme=transparent" />
+  </a>
+  <a href="https://github.com/FahamaKhan1812">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahamaKhan1812&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
