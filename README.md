@@ -42,19 +42,6 @@
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,powershell,postman&perline=7"/>
 </p>
 
-
-#### Connect me on:
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/fahamakhan" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linkedin"/>&thinsp;
-  </a>
-    <a href="https://www.instagram.com/muhammadfahama" target="_blank" rel="noreferrer">
-     <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-    
-</p>
-
 ---
 
 
