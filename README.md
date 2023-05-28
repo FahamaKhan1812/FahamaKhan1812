@@ -60,7 +60,7 @@
 
 #### GitHub Stats:
 
-<p align="center">
+<p>
   <a href="https://github.com/FahamaKhan1812">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahamaKhan1812&theme=transparent" />
   </a>
