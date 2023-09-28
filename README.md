@@ -55,10 +55,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FahamaKhan1812&theme=transparent" />
   </a>
   
-<!--    <a href="https://github.com/FahamaKhan1812">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?      username=FahamaKhan1812&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a> -->
-  
+   <a href="https://github.com/FahamaKhan1812">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FahamaKhan1812&card_width=699&hide_border=true&theme=transparent" />
+  </a>
   
 <!--    [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FahamaKhan1812&hide=html,css,astro,scss&layout=default&card_width=699&hide_border=true&theme=transparent)](https://github.com/FahamaKhan1812) -->
 
