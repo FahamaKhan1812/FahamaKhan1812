@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Fahama Khan</h1>
 <img width="45%" alt="coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*m43Pv4nJJgPdaxDAdLc8XQ.gif" align="right" />
 <div style="background-color: #f8f8f8; padding: 20px; border-radius: 5px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);">
-  <h2 style="color: #333; font-size: 24px; font-weight: bold; margin-bottom: 10px;">Software Developer</h2>
-  <p style="color: #666; font-size: 16px; margin-bottom: 0;">With 2 years of experience in creating user-friendly and efficient web applications using a variety of web development tools. My expertise includes HTML, CSS, JavaScript, Angular, React, and more.</p>
+  <h2 style="color: #333; font-size: 24px; font-weight: bold; margin-bottom: 10px;">Software Engineer</h2>
+  <p style="color: #666; font-size: 16px; margin-bottom: 0;">Experienced Full Stack Web Developer with a strong focus on frontend development, specializing in HTML, CSS, JavaScript, TypeScript, Angular, and .NET EF Core. Proficient in crafting intuitive user interfaces and delivering seamless user experiences. Additionally, possess expertise in backend engineering, working with .NET EF Core, Microsoft SQL, and other technologies to ensure robust and efficient web applications.</p>
 </div>
 
 #### Languages:
